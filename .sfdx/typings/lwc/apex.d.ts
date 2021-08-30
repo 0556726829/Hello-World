@@ -8,7 +8,7 @@ declare module "@salesforce/apex" {
         /** The object's API name. */
         objectApiName: string;
     }
-
+ 
     /**
      * Services for Apex.
      */
